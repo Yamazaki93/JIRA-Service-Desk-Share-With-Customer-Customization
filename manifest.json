@@ -1,5 +1,5 @@
 {
-    "name": "JIRA Service Desk Comment Button Customization",
+    "name": "Service Desk Comment Button Customization",
     "version": "1.0",
     "description": "Customize JIRA Service Desk Comment Internal and Share with Customer Button on JIRA cloud",
     "author": "Michael Lu <admin@rhodiumcode.com>",
