@@ -1,4 +1,4 @@
 # JIRA Service Desk Share With Customer Customization
 
-Ok, so you can't really do anything with that JIRA share to customer button. But with this extension you can :)
+Ok, so that JIRA Service Desk "Share with Customer" button is really in the way, sometimes you don't want it, sometimes you click it by accident... With this extension, no more :)
 
