@@ -1,0 +1,27 @@
+{
+    "name": "JIRA Service Desk Customer Button Customization",
+    "version": "1.0",
+    "description": "Switch JIRA Service Desk Comment Internal and Share with Customer Button",
+    "permissions": [
+        "storage",
+        "activeTab"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    },
+    "content_scripts": [
+        {
+            "run_at": "document_idle",
+            "matches": [
+                "https://*.atlassian.net/*"
+            ],
+            "js": [
+                "buttonCustomization.js"
+            ]
+        }
+    ],
+    "manifest_version": 2
+}
