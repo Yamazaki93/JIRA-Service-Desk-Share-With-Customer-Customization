@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        button {
+            height: 30px;
+            width: 30px;
+            outline: none;
+            margin: 10px;
+        }
+        .options-container {
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>JIRA Service Desk Comment Button Customization Options</h1>
+
+    <div class="options-container">
+        <p>Switch "Comment Internally" and "Share With Customer"</p>
+        <input type="checkbox" id="switch">
+    </div>
+    <small>The "Comment Internally" and "Share With Customer" button will switch place and "Comment Internally" will be shown as primary button</small>
+
+    <div class="options-container">
+        <p>Disable "Share With Customer"</p>
+        <input type="checkbox" id="disable">
+    </div>
+    <small>Completely removes the button "Share With Customer"</small>
+
+    <h4>Reload JIRA Service Desk page for the new setting to take effect</h4>
+</body>
+<script src="options.js"></script>
+
+</html>

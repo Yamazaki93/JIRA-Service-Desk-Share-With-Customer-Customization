@@ -1,7 +1,7 @@
 {
-    "name": "JIRA Service Desk Customer Button Customization",
+    "name": "JIRA Service Desk Comment Button Customization",
     "version": "1.0",
-    "description": "Switch JIRA Service Desk Comment Internal and Share with Customer Button",
+    "description": "Customize JIRA Service Desk Comment Internal and Share with Customer Button on JIRA cloud",
     "permissions": [
         "storage",
         "activeTab"
@@ -12,6 +12,7 @@
         ],
         "persistent": false
     },
+    "options_page": "options.html",
     "content_scripts": [
         {
             "run_at": "document_idle",
