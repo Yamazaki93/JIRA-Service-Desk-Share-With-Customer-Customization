@@ -25,9 +25,6 @@
             ]
         }
     ],
-    "icons": {
-        "128": "misc/switch-off-128.png"
-    },
     "manifest_version": 2,
     "homepage_url": "https://github.com/Yamazaki93/JIRA-Service-Desk-Share-With-Customer-Customization"
 }
