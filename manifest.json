@@ -1,7 +1,7 @@
 {
     "name": "JIRA Service Desk Comment Button Switcher",
     "version": "1.0",
-    "description": "Customize JIRA Service Desk Comment Internal and Share with Customer Button on JIRA cloud",
+    "description": "Customize JIRA Service Desk Cloud Comment Internally and Share with Customer Button",
     "author": "Michael Lu <admin@rhodiumcode.com>",
     "permissions": [
         "storage",
