@@ -24,7 +24,7 @@ Feel free to use the Issues page to post any problems, questions or discussions.
 
 Nope, the extension is installed on your browser and it changes the layout when you visit a JIRA page. It does not access your organization's JIRA settings.
 
-### Does the keyboard shortcut still works?
+### Does the keyboard shortcut still work?
 
 Yes, the keyboard shortcuts on the comment section should still work as usual (default: alt + s = Comment Internally)
 
